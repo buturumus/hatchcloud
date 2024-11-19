@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# phtcloud.py
+# cam2cloud.py
 
 """
 This imports media files from a mounted cam dir
